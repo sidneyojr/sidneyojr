@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ##
 
 <div>
-  <img align="center" alt="SIDNEY-Apache" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
+  <img align="center" alt="SIDNEY-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg">
+  <img align="center" alt="SIDNEY-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg">
   <img align="center" alt="SIDNEY-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="SIDNEY-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SIDNEY-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
