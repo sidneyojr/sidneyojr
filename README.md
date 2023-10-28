@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Pergunte-me sobre Linux
-<div>
-- 📫 Entre em contato comigo pelo email abaixo <a href = "mailto:sidney.oliveira.projeto@gmail.com"><img height="13" width="70"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+- 📫 Entre em contato comigo pelo email abaixo 
+<a href = "mailto:sidney.oliveira.projeto@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
