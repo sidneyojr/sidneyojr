@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 - 💬 Pergunte-me sobre Linux
 <div>
-- 📫 Entre em contato comigo pelo email abaixo <a href = "mailto:sidney.oliveira.projeto@gmail.com"><img height="10" width="80"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 Entre em contato comigo pelo email abaixo <a href = "mailto:sidney.oliveira.projeto@gmail.com"><img height="13" width="70"src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <!--
 - 😄 Pronouns: ...
