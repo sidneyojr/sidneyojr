@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##
+## **<!--Github Stats-->**
 
 <div>
   <a href="https://github.com/sidneyojr">
@@ -27,7 +27,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyojr&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-##
+
+
+## <!--Icons-->
 
 <div>
   <img align="center" alt="SIDNEY-Debian" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg">
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
   
 </div>
 
-##
+## <!--Badges-->
 
 <div> 
   <a href="https://instagram.com/sidneydeojunior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -52,10 +54,14 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sidneyojr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+##  <!--Snake Animation-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidneyojr/sidneyojr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidneyojr/sidneyojr/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidneyojr/sidneyojr/output/github-contribution-grid-snake.svg">
 </picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+##
